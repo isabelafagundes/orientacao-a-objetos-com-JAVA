@@ -1,0 +1,4 @@
+package trabalhandoComHeranca;
+
+class Funcionario {
+}
