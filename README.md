@@ -1,2 +1,2 @@
 # orientaco-a-objetos-com-JAVA
-Este repositório contém alguns códigos desenvolvidos com o objetivo de fixar conhecimentos de orientação a objetos com JAVA.
+Este repositório contém alguns códigos desenvolvidos com o objetivo de fixar conhecimentos de orientação a objetos com JAVA, a maioria foram realizados a partir do curso de Orientação a Objetos da plataforma Digital Innovation One. Foi trabalhado as seguintes estruturas: Classes, atributos, métodos, objetos e mensagens. Além de estudar conceitos de herança, associação, organização e visibilidades.
